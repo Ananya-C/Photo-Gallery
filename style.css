@@ -1,0 +1,23 @@
+#grid{
+    margin-left: 50px;
+    border-color: black;
+    border-width: 5px;
+}
+body{
+text-align: center;
+background-color: black;
+}
+#myCarousel{
+    background-color: red;
+}
+.gridi{
+    width:250px;
+    height: 200px;
+}
+.a{
+    height:275px;
+    width:250px;
+}
+#b{
+    height:270px;
+}
